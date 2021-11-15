@@ -14,6 +14,8 @@ Minimal glassy theme for KDE plasma
 Also avaialable on https://store.kde.org/p/1642940
 
 
+![Screenshot Coding](coding.jpg)
+
 # Fine tune system settings
 
 1. Open “System Settings”
