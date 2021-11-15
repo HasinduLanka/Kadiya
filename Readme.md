@@ -6,6 +6,14 @@ Minimal glassy theme for KDE plasma
 
 ---
 
+# Installation
+
+- In KDE, go to Settings > Appearance > Plasma Style > `Get New Plasma Styles`
+- Search for `kadiya` and install it
+
+Also avaialable on https://store.kde.org/p/1642940
+
+
 # Fine tune system settings
 
 1. Open “System Settings”
@@ -27,11 +35,6 @@ Minimal glassy theme for KDE plasma
 ![Application Style](blur.jpg)
 
 ---
-
-
-# Installation
-
-You will be able to install this from kde store soon.
 
 ### Manual installation
 
