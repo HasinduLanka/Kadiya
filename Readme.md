@@ -1,6 +1,6 @@
 # Kadiya Plasma Theme
 
-Minimal glassy looking plasma theme for KDE plasma
+Minimal glassy theme for KDE plasma
 
 ![Screenshot](ss.jpg)
 
@@ -27,3 +27,15 @@ Minimal glassy looking plasma theme for KDE plasma
 ![Application Style](blur.jpg)
 
 ---
+
+
+# Installation
+
+You will be able to install this from kde store soon.
+
+### Manual installation
+
+1. Clone this repo or download as zip
+1. Run this command inside folder : `sh install.sh`
+1. Go to Settings > Appearance > Plasma Style
+1. Select `Kadiya` and apply
