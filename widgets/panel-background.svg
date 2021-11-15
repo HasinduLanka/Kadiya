@@ -142,7 +142,7 @@
        style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none" />
     <g
        transform="matrix(0.375,0,0,2.6666565,21.87499,-1515.261)"
-       style="opacity:0.7;fill:#0f111a;fill-opacity:1"
+       style="opacity:0.5;fill:#0f111a;fill-opacity:1"
        id="top">
       <rect
          class="ColorScheme-Background"
@@ -156,7 +156,7 @@
     </g>
     <g
        transform="matrix(0.375,0,0,2.6666565,21.87499,-1588.594)"
-       style="opacity:0.7;fill:#192124;fill-opacity:1"
+       style="opacity:0.5;fill:#192124;fill-opacity:1"
        id="bottom">
       <rect
          class="ColorScheme-Background"
@@ -170,7 +170,7 @@
     </g>
     <g
        transform="matrix(2.6666669,0,0,0.375,-21.666677,584.72634)"
-       style="opacity:0.7;fill:#192124;fill-opacity:1"
+       style="opacity:0.5;fill:#192124;fill-opacity:1"
        id="left">
       <rect
          class="ColorScheme-Background"
@@ -184,7 +184,7 @@
     </g>
     <g
        transform="matrix(2.6666669,0,0,0.375,-94.999985,584.72634)"
-       style="opacity:0.7;fill:#192124;fill-opacity:1"
+       style="opacity:0.5;fill:#192124;fill-opacity:1"
        id="right">
       <rect
          class="ColorScheme-Background"
@@ -200,7 +200,7 @@
        style="opacity:1"
        id="center">
       <rect
-         style="opacity:0.7;fill:none;fill-opacity:1;stroke:none"
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"
          id="rect4401"
          width="32"
          height="32"
@@ -213,7 +213,7 @@
          height="32"
          width="32"
          id="rect4138"
-         style="opacity:0.7;fill:#192124;fill-opacity:1;stroke:none" />
+         style="opacity:0.5;fill:#192124;fill-opacity:1;stroke:none" />
     </g>
     <rect
        y="912.36218"
@@ -221,9 +221,9 @@
        height="1.9999769"
        width="4"
        id="hint-top-margin"
-       style="opacity:0.7;fill:#ff00ff;fill-opacity:1;stroke:none" />
+       style="opacity:0.5;fill:#ff00ff;fill-opacity:1;stroke:none" />
     <rect
-       style="opacity:0.7;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#ff00ff;fill-opacity:1;stroke:none"
        id="hint-bottom-margin"
        width="4"
        height="2.0000231"
@@ -231,7 +231,7 @@
        y="954.36218" />
     <rect
        transform="rotate(90)"
-       style="opacity:0.7;fill:#ff00ff;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#ff00ff;fill-opacity:1;stroke:none"
        id="hint-right-margin"
        width="3.9999769"
        height="1.9999847"
@@ -244,9 +244,9 @@
        height="2.0000019"
        width="4"
        id="hint-left-margin"
-       style="opacity:0.7;fill:#ff00ff;fill-opacity:1;stroke:none" />
+       style="opacity:0.5;fill:#ff00ff;fill-opacity:1;stroke:none" />
     <g
-       style="opacity:0.7;fill:#0f111a;fill-opacity:1"
+       style="opacity:0.5;fill:#0f111a;fill-opacity:1"
        id="topleft"
        transform="matrix(2.6666667,0,0,2.6666565,-21.666667,-1515.2611)">
       <path
@@ -259,7 +259,7 @@
          style="color:#eff0f1;opacity:1;fill:#192124;fill-opacity:1;stroke:none" />
     </g>
     <g
-       style="opacity:0.7;fill:#192124;fill-opacity:1"
+       style="opacity:0.5;fill:#192124;fill-opacity:1"
        id="topright"
        transform="matrix(2.6666667,0,0,2.6666565,-95,-1515.2611)">
       <path
@@ -272,7 +272,7 @@
          transform="translate(0,904.36218)" />
     </g>
     <g
-       style="opacity:0.7;fill:#0f111a;fill-opacity:1"
+       style="opacity:0.5;fill:#0f111a;fill-opacity:1"
        id="bottomleft"
        transform="matrix(2.6666667,0,0,2.6666565,-21.666667,-1588.594)">
       <path
@@ -284,7 +284,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       style="opacity:0.7;fill:#192124;fill-opacity:1"
+       style="opacity:0.5;fill:#192124;fill-opacity:1"
        id="bottomright"
        transform="matrix(2.6666667,0,0,2.6666565,-95,-1588.594)">
       <path
@@ -304,7 +304,7 @@
          height="32.000015"
          width="11.999931"
          id="rect4265"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54919"
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54919"
          transform="matrix(0,-1,-1,0,0,0)" />
     </g>
     <g
@@ -314,7 +314,7 @@
          inkscape:connector-curvature="0"
          id="path4277"
          d="m 23,910.36218 c -5.539984,0 -10,4.46002 -10,10 h 10 z"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2" />
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke-width:2" />
     </g>
     <g
        transform="matrix(2.0000036,0,0,2.0000159,57.999798,-910.37672)"
@@ -323,14 +323,14 @@
          inkscape:connector-curvature="0"
          id="path4287"
          d="m 49.000013,910.36218 v 7.99999 H 57 c 0,-4.43198 -3.568007,-7.99999 -7.999987,-7.99999 z"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:1.6" />
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke-width:1.6" />
     </g>
     <g
        transform="matrix(0.37500035,0,0,1.600003,136.87498,-572.62032)"
        id="mask-bottom">
       <rect
          transform="rotate(90)"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
          id="rect4291"
          width="9.9999723"
          height="32.000015"
@@ -344,7 +344,7 @@
          inkscape:connector-curvature="0"
          id="path4303"
          d="m 13,942.36218 c 0,6.64797 5.35202,12 12,12 v -12 z"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2.40001" />
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke-width:2.40001" />
     </g>
     <g
        transform="matrix(1.3333336,0,0,1.3333316,95.99999,-318.11912)"
@@ -353,14 +353,14 @@
          inkscape:connector-curvature="0"
          id="path4313"
          d="m 45,942.36218 v 12 c 6.64798,0 12,-5.35203 12,-12 z"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2.40001" />
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke-width:2.40001" />
     </g>
     <g
        transform="matrix(1.3333341,0,0,0.60000604,110.66665,372.93927)"
        id="mask-left">
       <rect
          transform="scale(-1,1)"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.22475"
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.22475"
          id="rect4317"
          width="11.999996"
          height="20.000069"
@@ -376,7 +376,7 @@
          height="32.000023"
          width="9.9999828"
          id="rect4323"
-         style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+         style="opacity:0.90;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421" />
     </g>
     <rect
        y="926.36212"
@@ -384,6 +384,6 @@
        height="12.000025"
        width="12.000025"
        id="mask-center"
-       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375001" />
+       style="opacity:0.90;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375001" />
   </g>
 </svg>

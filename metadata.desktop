@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=Diviya
-Comment=Diviya Plamsa Theme
+Name=Kadiya
+Comment=Kadiya transparent plamsa theme
 
 X-KDE-PluginInfo-Author=Hasindu Lanka
-X-KDE-PluginInfo-Email=HasinduLanka@gmail.com
-X-KDE-PluginInfo-Name=diviya
+X-KDE-PluginInfo-Email=HasinduLankaCC@gmail.com
+X-KDE-PluginInfo-Name=kadiya
 X-KDE-PluginInfo-Version=5.87.0
 X-KDE-PluginInfo-Website=https://plasma.kde.org
 X-KDE-PluginInfo-Category=
@@ -13,12 +13,12 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
 
-# [ContrastEffect]
-# enabled=false
-# contrast=0.2
-# intensity=0.4
-# saturation=1.7
-#
-#
-# [AdaptiveTransparency]
-# enabled=true
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+
+[AdaptiveTransparency]
+enabled=true

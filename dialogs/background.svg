@@ -156,33 +156,33 @@
      y="-7" />
   <path
      id="topright"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      d="m 104,5.000917 v 23.999998 h 24 C 128,9 124,5.000917 104,5.000917 Z" />
   <rect
      id="top"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      width="80"
      height="24"
      x="24"
      y="5" />
   <rect
      id="center"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      width="80"
      height="80"
      x="24"
      y="29" />
   <path
      id="topleft"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      d="M 24,5.000002 V 29 H 0 C 0,9 4,5.000002 24,5.000002 Z" />
   <path
      id="bottomright"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      d="m 104,132.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z" />
   <rect
      id="bottom"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      width="80"
      height="24"
      x="24"
@@ -190,11 +190,11 @@
      transform="scale(1,-1)" />
   <path
      id="bottomleft"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      d="M 24.000017,133 V 109 H 1.7081479e-5 C 1.7081479e-5,129 4,133 24.000017,133 Z" />
   <rect
      id="left"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      width="80"
      height="24"
      x="29"
@@ -202,7 +202,7 @@
      transform="rotate(90)" />
   <rect
      id="right"
-     style="opacity:0.7;fill:#192124;fill-opacity:1"
+     style="opacity:0.6;fill:#192124;fill-opacity:1"
      width="80"
      height="24"
      x="29"
