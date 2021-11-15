@@ -4,7 +4,12 @@ Comment=Kadiya transparent plamsa theme
 
 X-KDE-PluginInfo-Author=Hasindu Lanka
 X-KDE-PluginInfo-Email=HasinduLankaCC@gmail.com
-X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Kadiya
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/HasinduLanka/Kadiya
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
