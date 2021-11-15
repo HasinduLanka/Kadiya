@@ -14,10 +14,10 @@ X-Plasma-API=5.0
 
 
 [ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
+enabled=true
+contrast=0.17
+intensity=1.25
+saturation=9
 
 
 [AdaptiveTransparency]
