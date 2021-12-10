@@ -4,7 +4,7 @@
 
 Breeze Dark plasma style with transparent panels. Simple as possible.
 
-![Screenshot](ss.png)
+![Screenshot](ss.jpg)
 
 ---
 
