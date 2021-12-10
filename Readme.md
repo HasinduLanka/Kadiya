@@ -4,7 +4,7 @@
 
 Breeze Dark plasma style with transparent panels. Simple as possible.
 
-![Screenshot](ss.jpg)
+![Screenshot](ss.png)
 
 ---
 
@@ -15,7 +15,6 @@ Breeze Dark plasma style with transparent panels. Simple as possible.
 
 Also avaialable on https://store.kde.org/p/1642940
 
-![Screenshot Coding](coding.jpg)
 
 # Fine tune system settings
 
